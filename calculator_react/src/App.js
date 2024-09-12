@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Iphone Calculator, to learn more about React
+          Iphone Calculator, to learn more about React...need to find a more modern video to
+          get the starter code (components/index/app) and then get back to following justin kim
         </p>
         <a
           className="App-link"
